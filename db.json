@@ -1,0 +1,1300 @@
+{
+    "areas-of-study": [
+        {
+            "id": 1,
+            "study": "Accounting",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics", "accounting", "finance", "taxation"],
+            "link": "https://www.su.edu/business/accounting/"
+        },
+        {
+            "id": 2,
+            "study": "Acting",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "acting", "theatre", "drama", "performance"],
+            "link": "https://www.su.edu/conservatory/acting/"
+        },
+        {
+            "id": 3,
+            "study": "Administration & Supervision",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "administration", "&", "supervision"],
+            "link": "https://www.su.edu/education/administration-supervision/"
+        },
+        {
+            "id": 4,
+            "study": "American Legal Studies",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "american", "legal", "studies"],
+            "link": "https://www.su.edu/arts-sciences/american-legal-studies/"
+        },
+        {
+            "id": 5,
+            "study": "Applied Behavior Analysis",
+            "category": "education",
+            "degreeType": "Certificates",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "applied", "behavior", "analysis"],
+            "link": "https://www.su.edu/education/applied-behavior-analysis/"
+        },
+        {
+            "id": 6,
+            "study": "Art",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "art"],
+            "link": "https://www.su.edu/arts-sciences/art/"
+        },
+        {
+            "id": 7,
+            "study": "Athletic Training",
+            "category": "health",
+            "degreeType": "Master's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "athletic training", "sports medicine", "fitness", "athletic", "training"],
+            "link": "https://www.su.edu/health/athletic-training/"
+        },
+        {
+            "id": 8,
+            "study": "Biology",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "biology", "life sciences", "genetics", "ecology"],
+            "link": "https://www.su.edu/arts-sciences/biology/"
+        },
+        {
+            "id": 9,
+            "study": "Business Administration (MBA)",
+            "category": "business",
+            "degreeType": "Master's Degrees",
+            "keywords": ["business", "management", "economics", "administration", "(mba)"],
+            "link": "https://www.su.edu/business/mba/"
+        },
+        {
+            "id": 10,
+            "study": "Chemistry",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "chemistry", "chemical science", "biochemistry"],
+            "link": "https://www.su.edu/arts-sciences/chemistry/"
+        },
+        {
+            "id": 11,
+            "study": "Church Music",
+            "category": "conservatory",
+            "degreeType": "Master's Degrees",
+            "keywords": [
+                "conservatory",
+                "performing arts",
+                "music",
+                "theatre",
+                "music",
+                "composition",
+                "instrumental music",
+                "vocal music",
+                "church"
+            ],
+            "link": "https://www.su.edu/conservatory/church-music/"
+        },
+        {
+            "id": 12,
+            "study": "Clinical Mental Health Counseling",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": [
+                "education",
+                "teaching",
+                "learning",
+                "pedagogy",
+                "counseling",
+                "mental health",
+                "psychotherapy",
+                "clinical",
+                "mental",
+                "health"
+            ],
+            "link": "https://www.su.edu/education/clinical-mental-health-counseling/"
+        },
+        {
+            "id": 13,
+            "study": "Criminal Justice",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "criminal", "justice"],
+            "link": "https://www.su.edu/arts-sciences/criminal-justice/"
+        },
+        {
+            "id": 14,
+            "study": "Dance",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "dance", "choreography", "dance performance"],
+            "link": "https://www.su.edu/conservatory/dance/"
+        },
+        {
+            "id": 15,
+            "study": "Data Analytics",
+            "category": "business",
+            "degreeType": "Minors",
+            "keywords": ["business", "management", "economics", "data", "analytics"],
+            "link": "https://www.su.edu/business/data-analytics/"
+        },
+        {
+            "id": 16,
+            "study": "Doctor of Nursing Practice (DNP)",
+            "category": "nursing",
+            "degreeType": "Doctorate Degrees",
+            "keywords": ["nursing", "healthcare", "patient care", "medicine", "doctor", "of", "practice", "(dnp)"],
+            "link": "https://www.su.edu/nursing/dnp/"
+        },
+        {
+            "id": 17,
+            "study": "Early Childhood Special Education",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": [
+                "education",
+                "teaching",
+                "learning",
+                "pedagogy",
+                "special education",
+                "inclusive education",
+                "disability studies",
+                "early",
+                "childhood",
+                "special"
+            ],
+            "link": "https://www.su.edu/education/early-childhood-special-education/"
+        },
+        {
+            "id": 18,
+            "study": "Education Administration",
+            "category": "education",
+            "degreeType": "Certificates",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "administration"],
+            "link": "https://www.su.edu/education/education-administration/"
+        },
+        {
+            "id": 19,
+            "study": "Esports",
+            "category": "business",
+            "degreeType": "Minors",
+            "keywords": ["business", "management", "economics", "esports"],
+            "link": "https://www.su.edu/business/esports/"
+        },
+        {
+            "id": 20,
+            "study": "Exercise Science",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "exercise", "science"],
+            "link": "https://www.su.edu/health/exercise-science/"
+        },
+        {
+            "id": 21,
+            "study": "Family Nurse Practitioner",
+            "category": "nursing",
+            "degreeType": "Master's Degrees",
+            "keywords": [
+                "nursing",
+                "healthcare",
+                "patient care",
+                "medicine",
+                "nurse practitioner",
+                "advanced practice nursing",
+                "family health",
+                "family",
+                "nurse",
+                "practitioner"
+            ],
+            "link": "https://www.su.edu/nursing/family-nurse-practitioner/"
+        },
+        {
+            "id": 22,
+            "study": "Finance",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics", "finance", "investment", "economics"],
+            "link": "https://www.su.edu/business/finance/"
+        },
+        {
+            "id": 23,
+            "study": "Graphic Design",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "graphic", "design"],
+            "link": "https://www.su.edu/arts-sciences/graphic-design/"
+        },
+        {
+            "id": 24,
+            "study": "Health Administration",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "administration"],
+            "link": "https://www.su.edu/health/health-administration/"
+        },
+        {
+            "id": 25,
+            "study": "Health Promotion",
+            "category": "health",
+            "degreeType": "Minors",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "promotion"],
+            "link": "https://www.su.edu/health/health-promotion/"
+        },
+        {
+            "id": 26,
+            "study": "History",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "history", "historical studies", "world history"],
+            "link": "https://www.su.edu/arts-sciences/history/"
+        },
+        {
+            "id": 27,
+            "study": "Information Technology",
+            "category": "business",
+            "degreeType": "Minors",
+            "keywords": ["business", "management", "economics", "information", "technology"],
+            "link": "https://www.su.edu/business/information-technology/"
+        },
+        {
+            "id": 28,
+            "study": "International Relations",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "international", "relations"],
+            "link": "https://www.su.edu/arts-sciences/international-relations/"
+        },
+        {
+            "id": 29,
+            "study": "Jazz Studies",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "jazz", "studies"],
+            "link": "https://www.su.edu/conservatory/jazz-studies/"
+        },
+        {
+            "id": 30,
+            "study": "Kinesiology",
+            "category": "health",
+            "degreeType": "Master's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "kinesiology"],
+            "link": "https://www.su.edu/health/kinesiology/"
+        },
+        {
+            "id": 31,
+            "study": "Leadership Studies",
+            "category": "education",
+            "degreeType": "Doctorate Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "leadership", "administration", "educational leadership", "studies"],
+            "link": "https://www.su.edu/education/leadership-studies/"
+        },
+        {
+            "id": 32,
+            "study": "Marketing",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics", "marketing", "advertising", "consumer behavior"],
+            "link": "https://www.su.edu/business/marketing/"
+        },
+        {
+            "id": 33,
+            "study": "Mathematics",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "mathematics"],
+            "link": "https://www.su.edu/arts-sciences/mathematics/"
+        },
+        {
+            "id": 34,
+            "study": "Music Education",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": [
+                "conservatory",
+                "performing arts",
+                "music",
+                "theatre",
+                "music",
+                "composition",
+                "instrumental music",
+                "vocal music",
+                "education"
+            ],
+            "link": "https://www.su.edu/conservatory/music-education/"
+        },
+        {
+            "id": 35,
+            "study": "Nursing",
+            "category": "nursing",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["nursing", "healthcare", "patient care", "medicine"],
+            "link": "https://www.su.edu/nursing/bsn/"
+        },
+        {
+            "id": 36,
+            "study": "Occupational Therapy",
+            "category": "health",
+            "degreeType": "Doctorate Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "occupational", "therapy"],
+            "link": "https://www.su.edu/health/occupational-therapy/"
+        },
+        {
+            "id": 37,
+            "study": "Organizational Leadership",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "leadership", "administration", "educational leadership", "organizational"],
+            "link": "https://www.su.edu/education/organizational-leadership/"
+        },
+        {
+            "id": 38,
+            "study": "Pharmacy",
+            "category": "pharmacy",
+            "degreeType": "Doctorate Degrees",
+            "keywords": ["pharmacy"],
+            "link": "https://www.su.edu/pharmacy/pharmd/"
+        },
+        {
+            "id": 39,
+            "study": "Physical Therapy",
+            "category": "health",
+            "degreeType": "Doctorate Degrees",
+            "keywords": [
+                "health",
+                "wellness",
+                "healthcare",
+                "medicine",
+                "physical therapy",
+                "rehabilitation",
+                "physiotherapy",
+                "physical",
+                "therapy"
+            ],
+            "link": "https://www.su.edu/health/physical-therapy/"
+        },
+        {
+            "id": 40,
+            "study": "Political Science",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "political science", "government", "politics", "political", "science"],
+            "link": "https://www.su.edu/arts-sciences/political-science/"
+        },
+        {
+            "id": 41,
+            "study": "Professional Studies",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "professional", "studies"],
+            "link": "https://www.su.edu/arts-sciences/professional-studies/"
+        },
+        {
+            "id": 42,
+            "study": "Psychology",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "psychology"],
+            "link": "https://www.su.edu/arts-sciences/psychology/"
+        },
+        {
+            "id": 43,
+            "study": "Public Health",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "public"],
+            "link": "https://www.su.edu/health/public-health/"
+        },
+        {
+            "id": 44,
+            "study": "Public History",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "history", "historical studies", "world history", "public"],
+            "link": "https://www.su.edu/arts-sciences/public-history/"
+        },
+        {
+            "id": 45,
+            "study": "Public Safety & Emergency Management",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "public", "safety", "&", "emergency", "management"],
+            "link": "https://www.su.edu/arts-sciences/public-safety-emergency-management/"
+        },
+        {
+            "id": 46,
+            "study": "Public Safety Leadership",
+            "category": "arts-sciences",
+            "degreeType": "Master's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "public", "safety", "leadership"],
+            "link": "https://www.su.edu/arts-sciences/public-safety-leadership/"
+        },
+        {
+            "id": 47,
+            "study": "Public Management",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "public", "management"],
+            "link": "https://www.su.edu/arts-sciences/public-management/"
+        },
+        {
+            "id": 48,
+            "study": "Respiratory Care",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "respiratory", "care"],
+            "link": "https://www.su.edu/health/respiratory-care/"
+        },
+        {
+            "id": 49,
+            "study": "School Counseling",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "counseling", "mental health", "psychotherapy", "school"],
+            "link": "https://www.su.edu/education/school-counseling/"
+        },
+        {
+            "id": 50,
+            "study": "Social Work",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "social", "work"],
+            "link": "https://www.su.edu/arts-sciences/social-work/"
+        },
+        {
+            "id": 51,
+            "study": "Sociology",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "sociology"],
+            "link": "https://www.su.edu/arts-sciences/sociology/"
+        },
+        {
+            "id": 52,
+            "study": "Special Education",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": [
+                "education",
+                "teaching",
+                "learning",
+                "pedagogy",
+                "special education",
+                "inclusive education",
+                "disability studies",
+                "special"
+            ],
+            "link": "https://www.su.edu/education/special-education/"
+        },
+        {
+            "id": 53,
+            "study": "Sport Management",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics", "sport"],
+            "link": "https://www.su.edu/business/sport-management/"
+        },
+        {
+            "id": 54,
+            "study": "Sustainability",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "sustainability"],
+            "link": "https://www.su.edu/arts-sciences/sustainability/"
+        },
+        {
+            "id": 55,
+            "study": "Theatre",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre"],
+            "link": "https://www.su.edu/conservatory/theatre/"
+        },
+        {
+            "id": 56,
+            "study": "Virtual Reality Design",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "virtual", "reality", "design"],
+            "link": "https://www.su.edu/arts-sciences/virtual-reality-design/"
+        },
+        {
+            "id": 57,
+            "study": "Virtual Production",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "virtual", "production"],
+            "link": "https://www.su.edu/arts-sciences/virtual-production/"
+        },
+        {
+            "id": 58,
+            "study": "Vocal Pedagogy",
+            "category": "conservatory",
+            "degreeType": "Master's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "vocal", "pedagogy"],
+            "link": "https://www.su.edu/conservatory/vocal-pedagogy/"
+        },
+        {
+            "id": 59,
+            "study": "Vocal Performance",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "vocal", "performance"],
+            "link": "https://www.su.edu/conservatory/vocal-performance/"
+        },
+        {
+            "id": 60,
+            "study": "Women's Studies",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "women's", "studies"],
+            "link": "https://www.su.edu/arts-sciences/womens-studies/"
+        },
+        {
+            "id": 61,
+            "study": "Youth Ministry",
+            "category": "theology",
+            "degreeType": "Minors",
+            "keywords": ["youth", "ministry"],
+            "link": "https://www.su.edu/theology/youth-ministry/"
+        },
+        {
+            "id": 62,
+            "study": "Adult-Gerontology Primary Care Nurse Practitioner",
+            "category": "nursing",
+            "degreeType": "Master's Degrees",
+            "keywords": [
+                "nursing",
+                "healthcare",
+                "patient care",
+                "medicine",
+                "nurse practitioner",
+                "advanced practice nursing",
+                "family health",
+                "adult-gerontology",
+                "primary",
+                "care",
+                "nurse",
+                "practitioner"
+            ],
+            "link": "https://www.su.edu/nursing/adult-gerontology-primary-care-nurse-practitioner/"
+        },
+        {
+            "id": 63,
+            "study": "Applied Business Technology",
+            "category": "business",
+            "degreeType": "Minors",
+            "keywords": ["business", "management", "economics", "applied", "technology"],
+            "link": "https://www.su.edu/business/applied-business-technology/"
+        },
+        {
+            "id": 64,
+            "study": "Applied Cybersecurity",
+            "category": "business",
+            "degreeType": "Minors",
+            "keywords": ["business", "management", "economics", "applied", "cybersecurity"],
+            "link": "https://www.su.edu/business/applied-cybersecurity/"
+        },
+        {
+            "id": 65,
+            "study": "Athletic Training",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "athletic training", "sports medicine", "fitness", "athletic", "training"],
+            "link": "https://www.su.edu/health/athletic-training/"
+        },
+        {
+            "id": 66,
+            "study": "Biomedical Science",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "biomedical", "science"],
+            "link": "https://www.su.edu/arts-sciences/biomedical-science/"
+        },
+        {
+            "id": 67,
+            "study": "Cardiovascular Technology",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "cardiovascular", "technology"],
+            "link": "https://www.su.edu/health/cardiovascular-technology/"
+        },
+        {
+            "id": 68,
+            "study": "Church Leadership",
+            "category": "theology",
+            "degreeType": "Master's Degrees",
+            "keywords": ["church", "leadership"],
+            "link": "https://www.su.edu/theology/church-leadership/"
+        },
+        {
+            "id": 69,
+            "study": "Clinical & Translational Science",
+            "category": "health",
+            "degreeType": "Doctorate Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "clinical", "&", "translational", "science"],
+            "link": "https://www.su.edu/health/clinical-translational-science/"
+        },
+        {
+            "id": 70,
+            "study": "Communications",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "communications"],
+            "link": "https://www.su.edu/arts-sciences/communications/"
+        },
+        {
+            "id": 71,
+            "study": "Computer Science",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "computer", "science"],
+            "link": "https://www.su.edu/arts-sciences/computer-science/"
+        },
+        {
+            "id": 72,
+            "study": "Criminal Justice",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "criminal", "justice"],
+            "link": "https://www.su.edu/arts-sciences/criminal-justice-minor/"
+        },
+        {
+            "id": 73,
+            "study": "Cybersecurity Management",
+            "category": "business",
+            "degreeType": "Master's Degrees",
+            "keywords": ["business", "management", "computer science", "cybersecurity"],
+            "link": "https://www.su.edu/business/cybersecurity-management/"
+        },
+        {
+            "id": 74,
+            "study": "Data Science",
+            "category": "business",
+            "degreeType": "Master's Degrees",
+            "keywords": ["business", "management", "economics", "data", "science"],
+            "link": "https://www.su.edu/business/data-science/"
+        },
+        {
+            "id": 75,
+            "study": "Digital Marketing",
+            "category": "business",
+            "degreeType": "Master's Degrees",
+            "keywords": ["business", "management", "economics", "marketing", "advertising", "consumer behavior", "digital"],
+            "link": "https://www.su.edu/business/digital-marketing/"
+        },
+        {
+            "id": 76,
+            "study": "Educational Leadership",
+            "category": "education",
+            "degreeType": "Doctorate Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "leadership", "administration", "educational leadership", "educational"],
+            "link": "https://www.su.edu/education/educational-leadership/"
+        },
+        {
+            "id": 77,
+            "study": "Elementary Education",
+            "category": "education",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "elementary"],
+            "link": "https://www.su.edu/education/elementary-education/"
+        },
+        {
+            "id": 78,
+            "study": "Emergency & Disaster Management",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "emergency", "&", "disaster", "management"],
+            "link": "https://www.su.edu/arts-sciences/emergency-disaster-management/"
+        },
+        {
+            "id": 79,
+            "study": "Engineering",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "engineering"],
+            "link": "https://www.su.edu/arts-sciences/engineering/"
+        },
+        {
+            "id": 80,
+            "study": "Entrepreneurship",
+            "category": "business",
+            "degreeType": "Minors",
+            "keywords": ["business", "management", "economics", "entrepreneurship", "startups", "business development"],
+            "link": "https://www.su.edu/business/entrepreneurship/"
+        },
+        {
+            "id": 81,
+            "study": "Esports Management",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics", "esports"],
+            "link": "https://www.su.edu/business/esports-management/"
+        },
+        {
+            "id": 82,
+            "study": "Exercise Science",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "exercise", "science"],
+            "link": "https://www.su.edu/health/exercise-science/"
+        },
+        {
+            "id": 83,
+            "study": "Family Nurse Practitioner",
+            "category": "nursing",
+            "degreeType": "Master's Degrees",
+            "keywords": [
+                "nursing",
+                "healthcare",
+                "patient care",
+                "medicine",
+                "nurse practitioner",
+                "advanced practice nursing",
+                "family health",
+                "family",
+                "nurse",
+                "practitioner"
+            ],
+            "link": "https://www.su.edu/nursing/family-nurse-practitioner/"
+        },
+        {
+            "id": 84,
+            "study": "Forensic Science",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "forensic", "science"],
+            "link": "https://www.su.edu/arts-sciences/forensic-science/"
+        },
+        {
+            "id": 85,
+            "study": "Health & Physical Education",
+            "category": "education",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "health", "&", "physical"],
+            "link": "https://www.su.edu/education/health-physical-education/"
+        },
+        {
+            "id": 86,
+            "study": "Health Science",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "science"],
+            "link": "https://www.su.edu/health/health-science/"
+        },
+        {
+            "id": 87,
+            "study": "Healthcare Management",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "management"],
+            "link": "https://www.su.edu/health/healthcare-management/"
+        },
+        {
+            "id": 88,
+            "study": "Human Resource Management",
+            "category": "business",
+            "degreeType": "Minors",
+            "keywords": ["business", "management", "economics", "human", "resource"],
+            "link": "https://www.su.edu/business/human-resource-management/"
+        },
+        {
+            "id": 89,
+            "study": "Information Technology",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics", "information", "technology"],
+            "link": "https://www.su.edu/business/information-technology/"
+        },
+        {
+            "id": 90,
+            "study": "International Business",
+            "category": "business",
+            "degreeType": "Minors",
+            "keywords": ["business", "management", "economics", "international"],
+            "link": "https://www.su.edu/business/international-business/"
+        },
+        {
+            "id": 91,
+            "study": "International Relations",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "international", "relations"],
+            "link": "https://www.su.edu/arts-sciences/international-relations/"
+        },
+        {
+            "id": 92,
+            "study": "Journalism",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "journalism"],
+            "link": "https://www.su.edu/arts-sciences/journalism/"
+        },
+        {
+            "id": 93,
+            "study": "Kinesiology",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "kinesiology"],
+            "link": "https://www.su.edu/health/kinesiology/"
+        },
+        {
+            "id": 94,
+            "study": "Legal Studies",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "legal", "studies"],
+            "link": "https://www.su.edu/arts-sciences/legal-studies/"
+        },
+        {
+            "id": 95,
+            "study": "Management",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics"],
+            "link": "https://www.su.edu/business/management/"
+        },
+        {
+            "id": 96,
+            "study": "Marketing",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics", "marketing", "advertising", "consumer behavior"],
+            "link": "https://www.su.edu/business/marketing/"
+        },
+        {
+            "id": 98,
+            "study": "Media & Communication",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "media", "&", "communication"],
+            "link": "https://www.su.edu/arts-sciences/media-communication/"
+        },
+        {
+            "id": 99,
+            "study": "Medical Laboratory Science",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "medical", "laboratory", "science"],
+            "link": "https://www.su.edu/health/medical-laboratory-science/"
+        },
+        {
+            "id": 100,
+            "study": "Mental Health Counseling",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "counseling", "mental health", "psychotherapy", "mental", "health"],
+            "link": "https://www.su.edu/education/mental-health-counseling/"
+        },
+        {
+            "id": 101,
+            "study": "Music",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "music", "composition", "instrumental music", "vocal music"],
+            "link": "https://www.su.edu/conservatory/music/"
+        },
+        {
+            "id": 102,
+            "study": "Music Composition",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "music", "composition", "instrumental music", "vocal music"],
+            "link": "https://www.su.edu/conservatory/music-composition/"
+        },
+        {
+            "id": 103,
+            "study": "Music Education",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": [
+                "conservatory",
+                "performing arts",
+                "music",
+                "theatre",
+                "music",
+                "composition",
+                "instrumental music",
+                "vocal music",
+                "education"
+            ],
+            "link": "https://www.su.edu/conservatory/music-education/"
+        },
+        {
+            "id": 104,
+            "study": "Music Production & Recording Technology",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": [
+                "conservatory",
+                "performing arts",
+                "music",
+                "theatre",
+                "music",
+                "composition",
+                "instrumental music",
+                "vocal music",
+                "production",
+                "&",
+                "recording",
+                "technology"
+            ],
+            "link": "https://www.su.edu/conservatory/music-production-recording-technology/"
+        },
+        {
+            "id": 105,
+            "study": "Music Therapy",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": [
+                "conservatory",
+                "performing arts",
+                "music",
+                "theatre",
+                "music",
+                "composition",
+                "instrumental music",
+                "vocal music",
+                "therapy"
+            ],
+            "link": "https://www.su.edu/conservatory/music-therapy/"
+        },
+        {
+            "id": 106,
+            "study": "Nursing",
+            "category": "nursing",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["nursing", "healthcare", "patient care", "medicine"],
+            "link": "https://www.su.edu/nursing/nursing/"
+        },
+        {
+            "id": 107,
+            "study": "Nursing Practice",
+            "category": "nursing",
+            "degreeType": "Doctorate Degrees",
+            "keywords": ["nursing", "healthcare", "patient care", "medicine", "practice"],
+            "link": "https://www.su.edu/nursing/nursing-practice/"
+        },
+        {
+            "id": 108,
+            "study": "Nursing (RN to BSN)",
+            "category": "nursing",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["nursing", "healthcare", "patient care", "medicine", "(rn", "to", "bsn)"],
+            "link": "https://www.su.edu/nursing/rn-to-bsn/"
+        },
+        {
+            "id": 109,
+            "study": "Occupational Therapy",
+            "category": "health",
+            "degreeType": "Doctorate Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "occupational", "therapy"],
+            "link": "https://www.su.edu/health/occupational-therapy/"
+        },
+        {
+            "id": 110,
+            "study": "Organizational Leadership",
+            "category": "business",
+            "degreeType": "Master's Degrees",
+            "keywords": ["business", "management", "economics", "organizational", "leadership"],
+            "link": "https://www.su.edu/business/organizational-leadership/"
+        },
+        {
+            "id": 111,
+            "study": "Pharmacy",
+            "category": "health",
+            "degreeType": "Doctorate Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "pharmacy"],
+            "link": "https://www.su.edu/health/pharmacy/"
+        },
+        {
+            "id": 112,
+            "study": "Physical Therapy",
+            "category": "health",
+            "degreeType": "Doctorate Degrees",
+            "keywords": [
+                "health",
+                "wellness",
+                "healthcare",
+                "medicine",
+                "physical therapy",
+                "rehabilitation",
+                "physiotherapy",
+                "physical",
+                "therapy"
+            ],
+            "link": "https://www.su.edu/health/physical-therapy/"
+        },
+        {
+            "id": 113,
+            "study": "Physics",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "physics"],
+            "link": "https://www.su.edu/arts-sciences/physics/"
+        },
+        {
+            "id": 114,
+            "study": "Political Science",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "political science", "government", "politics", "political", "science"],
+            "link": "https://www.su.edu/arts-sciences/political-science/"
+        },
+        {
+            "id": 115,
+            "study": "Psychiatric Mental Health Nurse Practitioner",
+            "category": "nursing",
+            "degreeType": "Master's Degrees",
+            "keywords": [
+                "nursing",
+                "healthcare",
+                "patient care",
+                "medicine",
+                "nurse practitioner",
+                "advanced practice nursing",
+                "family health",
+                "psychiatric",
+                "mental",
+                "health",
+                "nurse",
+                "practitioner"
+            ],
+            "link": "https://www.su.edu/nursing/psychiatric-mental-health-nurse-practitioner/"
+        },
+        {
+            "id": 116,
+            "study": "Public Administration",
+            "category": "arts-sciences",
+            "degreeType": "Master's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "public", "administration"],
+            "link": "https://www.su.edu/arts-sciences/public-administration/"
+        },
+        {
+            "id": 117,
+            "study": "Public Health",
+            "category": "health",
+            "degreeType": "Master's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "public"],
+            "link": "https://www.su.edu/health/public-health/"
+        },
+        {
+            "id": 118,
+            "study": "Public Relations",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "public", "relations"],
+            "link": "https://www.su.edu/arts-sciences/public-relations/"
+        },
+        {
+            "id": 119,
+            "study": "Public Safety Leadership",
+            "category": "arts-sciences",
+            "degreeType": "Master's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "public", "safety", "leadership"],
+            "link": "https://www.su.edu/arts-sciences/public-safety-leadership/"
+        },
+        {
+            "id": 120,
+            "study": "Radiologic Technology",
+            "category": "health",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["health", "wellness", "healthcare", "medicine", "radiologic", "technology"],
+            "link": "https://www.su.edu/health/radiologic-technology/"
+        },
+        {
+            "id": 121,
+            "study": "Religion",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "religion"],
+            "link": "https://www.su.edu/arts-sciences/religion/"
+        },
+        {
+            "id": 122,
+            "study": "School Counseling",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "counseling", "mental health", "psychotherapy", "school"],
+            "link": "https://www.su.edu/education/school-counseling/"
+        },
+        {
+            "id": 123,
+            "study": "Secondary Education",
+            "category": "education",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "secondary"],
+            "link": "https://www.su.edu/education/secondary-education/"
+        },
+        {
+            "id": 124,
+            "study": "Software Engineering",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "software", "engineering"],
+            "link": "https://www.su.edu/arts-sciences/software-engineering/"
+        },
+        {
+            "id": 125,
+            "study": "Sport Business",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics", "sport"],
+            "link": "https://www.su.edu/business/sport-business/"
+        },
+        {
+            "id": 126,
+            "study": "Sport Management",
+            "category": "business",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["business", "management", "economics", "sport"],
+            "link": "https://www.su.edu/business/sport-management/"
+        },
+        {
+            "id": 127,
+            "study": "Strategic Communication",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "strategic", "communication"],
+            "link": "https://www.su.edu/arts-sciences/strategic-communication/"
+        },
+        {
+            "id": 128,
+            "study": "Studio Art",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "studio", "art"],
+            "link": "https://www.su.edu/arts-sciences/studio-art/"
+        },
+        {
+            "id": 129,
+            "study": "Sustainability",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "sustainability"],
+            "link": "https://www.su.edu/arts-sciences/sustainability/"
+        },
+        {
+            "id": 130,
+            "study": "Teaching",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy"],
+            "link": "https://www.su.edu/education/teaching/"
+        },
+        {
+            "id": 131,
+            "study": "Teaching English as a Second Language",
+            "category": "education",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "english", "as", "a", "second", "language"],
+            "link": "https://www.su.edu/education/teaching-english-as-a-second-language/"
+        },
+        {
+            "id": 132,
+            "study": "Theatre Design & Production",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "design", "&", "production"],
+            "link": "https://www.su.edu/conservatory/theatre-design-production/"
+        },
+        {
+            "id": 133,
+            "study": "Theology",
+            "category": "theology",
+            "degreeType": "Master's Degrees",
+            "keywords": ["theology"],
+            "link": "https://www.su.edu/theology/theology/"
+        },
+        {
+            "id": 134,
+            "study": "Urban Studies",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "urban", "studies"],
+            "link": "https://www.su.edu/arts-sciences/urban-studies/"
+        },
+        {
+            "id": 135,
+            "study": "Vocal Performance",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "vocal", "performance"],
+            "link": "https://www.su.edu/conservatory/vocal-performance/"
+        },
+        {
+            "id": 136,
+            "study": "Youth Ministry",
+            "category": "theology",
+            "degreeType": "Minors",
+            "keywords": ["youth", "ministry", "theology"],
+            "link": "https://www.su.edu/theology/youth-ministry/"
+        },
+        {
+            "id": 137,
+            "study": "Virtual Production & Immersive Media",
+            "category": "conservatory",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "virtual", "production", "&", "immersive", "media"],
+            "link": "https://www.su.edu/conservatory/virtual-production-immersive-media/"
+        },
+        {
+            "id": 138,
+            "study": "Vocal Pedagogy",
+            "category": "conservatory",
+            "degreeType": "Master's Degrees",
+            "keywords": ["conservatory", "performing arts", "music", "theatre", "vocal", "pedagogy"],
+            "link": "https://www.su.edu/conservatory/vocal-pedagogy/"
+        },
+        {
+            "id": 139,
+            "study": "Virtual Education & Instructional Design",
+            "category": "education",
+            "degreeType": "Master's Degrees",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "virtual", "&", "instructional", "design"],
+            "link": "https://www.su.edu/education/virtual-education-instructional-design/"
+        },
+        {
+            "id": 140,
+            "study": "Visual Communication & Design",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "visual", "communication", "&", "design"],
+            "link": "https://www.su.edu/arts-sciences/visual-communication-design/"
+        },
+        {
+            "id": 141,
+            "study": "Women\u2019s & Gender Studies",
+            "category": "arts-sciences",
+            "degreeType": "Minors",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "women\u2019s", "&", "gender", "studies"],
+            "link": "https://www.su.edu/arts-sciences/womens-gender-studies/"
+        },
+        {
+            "id": 142,
+            "study": "World Languages & Cultures",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "sciences", "liberal arts", "research", "world", "languages", "&", "cultures"],
+            "link": "https://www.su.edu/arts-sciences/world-languages-cultures/"
+        },
+        {
+            "id": 143,
+            "study": "Writing",
+            "category": "arts-sciences",
+            "degreeType": "Bachelor's Degrees",
+            "keywords": ["arts", "composition", "liberal arts", "research", "writing"],
+            "link": "https://www.su.edu/arts-sciences/writing/"
+        },
+        {
+            "id": 144,
+            "study": "Youth Development & Education",
+            "category": "education",
+            "degreeType": "Minors",
+            "keywords": ["education", "teaching", "learning", "pedagogy", "youth", "development", "&"],
+            "link": "https://www.su.edu/education/youth-development-education/"
+        }
+    ]
+}
